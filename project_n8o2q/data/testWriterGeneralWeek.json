@@ -1,0 +1,18 @@
+{"events": [
+    {
+        "endHour": 9,
+        "startHour": 8,
+        "name": "test",
+        "day": "Monday",
+        "startMinute": 0,
+        "endMinute": 9
+    },
+    {
+        "endHour": 17,
+        "startHour": 15,
+        "name": "test",
+        "day": "Tuesday",
+        "startMinute": 0,
+        "endMinute": 9
+    }
+]}

@@ -1,0 +1,10 @@
+{"tasks": [
+  {
+    "duration": 2,
+    "name": "math"
+  },
+  {
+    "duration": 10,
+    "name": "comsci"
+  }
+]}
